@@ -4,3 +4,4 @@ This Repo. is created to track my learning path , which i started in the field o
 3. Numpy
 4. Pandas
 5. Matplotlib & Seaborn
+6. Excel
